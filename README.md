@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
 
 <!--
 **ReMark2812/ReMark2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a beginner programmer with a passion for Python — it is simple and easy to understand.
+
+## Interests
+I am interested in security and encryption, learning and teaching AI, as well as working with hardware platforms like Arduino and Raspberry Pi.
+
+## Goals
+My goal is to keep progressing and stay up-to-date with the latest technology.
+
+Thank you for your time!
